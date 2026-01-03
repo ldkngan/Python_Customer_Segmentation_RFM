@@ -4,12 +4,12 @@ This project focuses on customer segmentation using **RFM analysis** based on e-
 ---
 
 ## Table of Contents
-- Overview
-- Exploratory Data Analysis (EDA)
-- Data Wrangling
-- RFM Score & Segment
-- Visualizations & Key Insights
-- Recommendations
+1. Overview
+2. Exploratory Data Analysis (EDA)
+3. Data Wrangling
+4. RFM Score & Segment
+5. Visualizations & Key Insights
+6. Recommendations
 
 ---
 
